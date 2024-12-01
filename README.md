@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋 Me llamo Yerkon Ochoa Ramos</h1>
 
 <p align="center">
-  <img src="img/portafolio.png">
+  <img src="Banner.jpg">
 </p>
 
 Soy Ingeniero en Informatica graduado de la Universitario Francisco de Miranda. Soy una persona altamente proactiva con un fuerte deseo de aprender y compartir conocimiento en el ámbito tecnológico.

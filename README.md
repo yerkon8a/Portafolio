@@ -18,7 +18,6 @@ Aquí están algunas de las tecnologías y lenguajes en las que tengo conocimien
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 [![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)](https://www.php.net/)
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
-![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=CC2927&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
@@ -27,6 +26,7 @@ Aquí están algunas de las tecnologías y lenguajes en las que tengo conocimien
 ## 🛠️ Herramientas
 
 Estas son algunas de las herramientas que uso para desarrollar proyectos:
+
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)

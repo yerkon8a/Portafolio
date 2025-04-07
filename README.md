@@ -1,11 +1,9 @@
 
-<h1 align="center">Hola 👋 Me llamo Yerkon Ochoa Ramos</h1>
-
 <p align="center">
   <img src="Banner.jpg">
 </p>
 
-Soy Ingeniero en Informatica graduado de la Universitario Francisco de Miranda. Soy una persona altamente proactiva con un fuerte deseo de aprender y compartir conocimiento en el ámbito tecnológico.
+Soy Ingeniero en Informatica graduado de la Universitario Francisco de Miranda. Soy una persona altamente proactiva con un fuerte deseo de aprender y compartir conocimiento en el ámbito tecnológico. En este espacio pretendo mostrar un poco de mis avances como desarollador.
 
 ## 🌟 Skills
 
@@ -50,4 +48,4 @@ Puedes encontrarme y seguirme en estas plataformas:
 [![LinkedIn Follow](https://img.shields.io/badge/-00a0dc?color=00a0dc&label=%40YERKONOCHOA&logo=Linkedin&logoColor=FFFFFF&style=for-the-badge)](https://www.linkedin.com/in/yerkon-ochoa-ramos-3425731a3)
 
 ---
-¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores apasionados. Si tienes alguna idea o proyecto en mente, no dudes en ponerte en contacto conmigo.
+¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores apasionados. 

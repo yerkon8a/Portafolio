@@ -16,15 +16,17 @@ Aquí están algunas de las tecnologías y lenguajes en las que tengo conocimien
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 [![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)](https://www.php.net/)
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
+![Lombok](https://img.shields.io/static/v1?style=for-the-badge&message=Lombok&color=E62C2C&logo=Java&logoColor=FFFFFF&label=)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=CC2927&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF&label=)
-![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=336791&logo=PostgreSQL&logoColor=FFFFFF&label=)
+
 
 ## 🛠️ Herramientas
 
 Estas son algunas de las herramientas que uso para desarrollar proyectos:
 
+![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=336791&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
@@ -36,6 +38,7 @@ Estas son algunas de las herramientas que uso para desarrollar proyectos:
 [![Eclipse](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse&color=2C2255&logo=Eclipse&logoColor=FFFFFF&label=)](https://www.eclipse.org/)
 [![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)](https://www.jetbrains.com/idea/)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Tomcat](https://img.shields.io/static/v1?style=for-the-badge&message=Tomcat&color=F8DC75&logo=Apache+Tomcat&logoColor=000000&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=000000&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)

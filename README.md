@@ -14,9 +14,10 @@ Aquí están algunas de las tecnologías y lenguajes en las que tengo conocimien
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
-[![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)](https://www.php.net/)
+![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 ![Lombok](https://img.shields.io/static/v1?style=for-the-badge&message=Lombok&color=E62C2C&logo=Java&logoColor=FFFFFF&label=)
+[![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)](https://www.php.net/)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=CC2927&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF&label=)
 
 
